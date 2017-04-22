@@ -1,0 +1,1 @@
+stock _tero_;
